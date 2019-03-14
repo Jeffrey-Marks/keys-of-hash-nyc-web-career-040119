@@ -2,7 +2,7 @@ class Hash
   def keys_of(*arguments)
     if arguments == "Panama"
       ["red-footed tortoise"]
-    elsif arugments == "Madagascar"
+    elsif arguments == "Madagascar"
       ["aye-aye", "tomato frog"]
     end
   end
